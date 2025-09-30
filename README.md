@@ -1,23 +1,21 @@
 # 💸 Simulador de Caixa Eletrônico em C
 
-Este é um projeto simples desenvolvido em linguagem C que simula um **caixa eletrônico** com funcionalidades básicas como consulta de saldo, saque e depósito.
+Esse projeto foi feito com intuito de aprender/praticar em linguagem C. Ele simula um **caixa eletrônico** com as funcionalidades básicas de consulta de saldo, saque e depósito. 
 
 ---
 
 ## 📋 Funcionalidades
 
-- 📌 Exibir saldo atual
-- 📌 Realizar saque (com verificação de saldo)
-- 📌 Realizar depósito (com validação)
-- 📌 Encerrar operação
+-  Exibir saldo atual
+-  Realizar saque (com verificação de saldo)
+-  Realizar depósito (com validação)
+-  Encerra o programa
 
 ---
 
 ## 📦 Pré-requisitos
 
-- Compilador C (ex: [GCC](https://gcc.gnu.org/), Clang, TDM-GCC, etc.)
-- Terminal ou Prompt de Comando (Windows/Linux/macOS)
-
+- Você pode compilar o projeto com GCC, apenas precisa rodar o comando abaixo no terminal, dentro da pasta do projeto.
 ---
 
 ## ⚙️ Como compilar
