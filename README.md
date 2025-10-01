@@ -23,21 +23,26 @@ Esse projeto foi feito com intuito de aprender/praticar em linguagem C. Ele simu
 Abra o terminal dentro do diretório do projeto e execute:
 
 ```bash
+
 gcc src/main.c -o bin/caixa.exe
+```
 
 ## ▶️ Como Executar
-
+```bash
 ./bin/caixa.exe
+
+```
 
 ## 🗂 Estrutura do Projeto
 
+```bash
 meu-projeto/
 ├── src/
 │   └── main.c
 ├── bin/
 ├── .gitignore
 └── README.md
-
+````
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
@@ -48,3 +53,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 **ySatty**  
 GitHub: [github.com/ySatty](https://gist.github.com/ySatty)
+
